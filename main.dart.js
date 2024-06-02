@@ -63806,7 +63806,7 @@ S(a){return this.OX(a)}}
 A.l9.prototype={
 ak(){return new A.Ob(B.n)}}
 A.Ob.prototype={
-S(a){var s,r=this,q=null,p=r.d?0.95:1
+S(a){var s,r=this,q=null,p=r.d?0.98:1
 p=A.abq(A.wT(r.a.c,q,q,q,q,q,q,q,q,A.q5(q,q,$.alI(),q,q,q,q,q,q,q,q,17,q,q,q,q,q,!0,q,q,q,q,q,q,q,q),q,q,q,q,q),B.ag,p)
 s=r.d?50:0
 return A.Dw(!1,!0,A.mQ(A.a1N(B.f4,A.a([p,A.acE(0,A.aeT(new A.eh(A.aL(B.c.aH(127.5),203,201,226),q,q,q,q,q,B.aC),B.ag,10,s),q,q,0,q,q,q)],t.p),B.ij),B.bp,new A.a8A(r),new A.a8B(r),q),q,!0,q,q,q,q,q,q,q,q,q,new A.a8C(r),q)}}
@@ -63840,27 +63840,27 @@ A.u1.prototype={
 ak(){return new A.KB(B.n)}}
 A.KB.prototype={
 S(a5){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d,c=null,b="Read My Article",a=200*$.b1().gdr(),a0=140*$.b1().gbQ(),a1=A.bw(c,80*$.b1().gbQ(),c),a2=A.bw(c,80*$.b1().gbQ(),c),a3=$.b1().gdr(),a4=t.p
-a3=A.bw(A.fu(A.a([A.bw(c,100*$.b1().gbQ(),c),A.j4(B.av,B.aH,!0,B.Rv),A.bw(c,40*$.b1().gbQ(),c),B.Rw,A.bw(c,100*$.b1().gbQ(),c),A.Gp(A.a([A.tE(A.j4(B.av,B.aH,!0,B.RD)),A.bw(c,c,120*$.b1().gdr()),A.tE(A.j4(B.av,B.aH,!0,B.Rx))],a4),B.a9,B.L)],a4),B.ae,B.L),c,700*a3)
+a3=A.bw(A.fu(A.a([A.bw(c,100*$.b1().gbQ(),c),A.j4(B.av,B.aH,!0,B.Rv),A.bw(c,40*$.b1().gbQ(),c),B.Rw,A.bw(c,100*$.b1().gbQ(),c),A.Gp(A.a([A.tE(A.j4(B.av,B.aH,!0,B.RC)),A.bw(c,c,120*$.b1().gdr()),A.tE(A.j4(B.av,B.aH,!0,B.RD))],a4),B.a9,B.L)],a4),B.ae,B.L),c,700*a3)
 s=$.b1().gdr()
 r=A.asn(c,c,new A.rz("assets/images/avatar.jpg",c,c))
 q=$.b1().gdr()
 p=30*$.b1().gdr()
 q=A.fu(A.a([A.Gp(A.a([a3,B.Dp,A.fu(A.a([new A.u6(r,450*s,c),A.iS(c,A.iS(c,c,B.v,c,c,B.xS,c,50*$.b1().gbQ(),c,c,c,c,c),B.v,c,c,c,c,c,c,new A.be(p,0,p,0),c,c,450*q)],a4),B.a9,B.L)],a4),B.ae,B.L)],a4),B.a9,B.hB)
 p=A.bw(c,a0,c)
-s=A.Gp(A.a([A.tE(A.fu(A.a([A.bw(c,100*$.b1().gbQ(),c),A.j4(B.av,B.aH,!0,B.RI),A.bw(c,20*$.b1().gbQ(),c),B.RJ],a4),B.ae,B.L)),A.bw(c,c,300*$.b1().gdr()),A.tE(A.fu(A.a([A.bw(c,100*$.b1().gbQ(),c),A.j4(B.av,B.aH,!0,B.RE),A.bw(c,20*$.b1().gbQ(),c),B.RA],a4),B.ae,B.L))],a4),B.ae,B.L)
+s=A.Gp(A.a([A.tE(A.fu(A.a([A.bw(c,100*$.b1().gbQ(),c),A.j4(B.av,B.aH,!0,B.RE),A.bw(c,20*$.b1().gbQ(),c),B.Rz],a4),B.ae,B.L)),A.bw(c,c,300*$.b1().gdr()),A.tE(A.fu(A.a([A.bw(c,100*$.b1().gbQ(),c),A.j4(B.av,B.aH,!0,B.RI),A.bw(c,20*$.b1().gbQ(),c),B.RJ],a4),B.ae,B.L))],a4),B.ae,B.L)
 r=A.bw(c,400*$.b1().gbQ(),c)
 a3=120*$.b1().gdr()
 o=$.b1().gbQ()
 n=$.b1().gbQ()
 m=$.b1().gdr()
-n=A.tE(A.iS(c,A.fu(A.a([A.j4(B.av,B.aH,!0,B.RC),A.bw(c,20*$.b1().gbQ(),c),B.wi,A.bw(c,80*$.b1().gbQ(),c),A.bw(new A.pq(new A.a64(),b,c),c,400*$.b1().gdr())],a4),B.ae,B.L),B.v,c,c,B.xT,c,c,c,new A.be(120*m,140*o,0,140*n),c,c,c))
+n=A.tE(A.iS(c,A.fu(A.a([A.j4(B.av,B.aH,!0,B.RB),A.bw(c,20*$.b1().gbQ(),c),B.wi,A.bw(c,80*$.b1().gbQ(),c),A.bw(new A.pq(new A.a64(),b,c),c,400*$.b1().gdr())],a4),B.ae,B.L),B.v,c,c,B.xT,c,c,c,new A.be(120*m,140*o,0,140*n),c,c,c))
 o=$.b1().gbQ()
 m=$.b1().gbQ()
 l=$.b1().gdr()
 m=A.Gp(A.a([n,A.tE(A.iS(c,A.fu(A.a([A.j4(B.av,B.aH,!0,B.RH),A.bw(c,20*$.b1().gbQ(),c),B.wi,A.bw(c,80*$.b1().gbQ(),c),A.bw(new A.pq(new A.a65(),b,c),c,400*$.b1().gdr())],a4),B.ae,B.L),B.v,c,c,B.fd,c,c,c,new A.be(120*l,140*o,0,140*m),c,c,c))],a4),B.ae,B.L)
 o=A.bw(c,a0,c)
 l=160*$.b1().gbQ()
-l=A.iS(c,A.fu(A.a([A.j4(B.av,B.aH,!0,B.RB),B.Ry,B.LN],a4),B.a9,B.L),B.v,c,c,B.fd,c,c,c,new A.be(0,l,0,l),c,c,1/0)
+l=A.iS(c,A.fu(A.a([A.j4(B.av,B.aH,!0,B.RA),B.Rx,B.LN],a4),B.a9,B.L),B.v,c,c,B.fd,c,c,c,new A.be(0,l,0,l),c,c,1/0)
 n=A.bw(c,a0,c)
 k=200*$.b1().gdr()
 j=$.b1().gdr()
@@ -63871,7 +63871,7 @@ for(f=t.s,e=0;e<6;++e)g[e]=new A.vv(new A.ZO("Maurice.Design",A.a(["Android","Fi
 h=A.a2(g,!0,h)
 f=A.bw(c,a0,c)
 d=200*$.b1().gdr()
-return new A.w1(new A.GU(A.fu(A.a([a1,new A.e5(new A.be(a,0,a,0),B.Cw,c),a2,new A.e5(new A.be(a,0,a,0),q,c),p,new A.e5(new A.be(a,0,a,0),s,c),r,new A.e5(new A.be(a3,0,a3,0),m,c),o,l,n,new A.e5(new A.be(k,0,k,0),new A.Ib(50*j,60*i,h,c),c),f,new A.e5(new A.be(d,0,d,0),A.fu(A.a([A.bw(B.RN,c,600*$.b1().gdr()),A.bw(c,50*$.b1().gbQ(),c),A.j4(B.av,B.aH,!0,B.Rz)],a4),B.a9,B.L),c),A.bw(c,a0,c),new A.e5(new A.be(a,0,a,0),B.wT,c),B.LO,new A.e5(new A.be(a,0,a,0),B.Ki,c),A.bw(c,120*$.b1().gbQ(),c),new A.e5(new A.be(a,0,a,0),A.fu(A.a([A.iS(c,c,B.v,B.aE,c,c,c,1,c,c,c,c,1/0),A.bw(c,30*$.b1().gbQ(),c),B.Kh],a4),B.a9,B.L),c),A.bw(c,a0,c)],a4),B.a9,B.L),c),c)}}
+return new A.w1(new A.GU(A.fu(A.a([a1,new A.e5(new A.be(a,0,a,0),B.Cw,c),a2,new A.e5(new A.be(a,0,a,0),q,c),p,new A.e5(new A.be(a,0,a,0),s,c),r,new A.e5(new A.be(a3,0,a3,0),m,c),o,l,n,new A.e5(new A.be(k,0,k,0),new A.Ib(50*j,60*i,h,c),c),f,new A.e5(new A.be(d,0,d,0),A.fu(A.a([A.bw(B.RN,c,600*$.b1().gdr()),A.bw(c,50*$.b1().gbQ(),c),A.j4(B.av,B.aH,!0,B.Ry)],a4),B.a9,B.L),c),A.bw(c,a0,c),new A.e5(new A.be(a,0,a,0),B.wT,c),B.LO,new A.e5(new A.be(a,0,a,0),B.Ki,c),A.bw(c,120*$.b1().gbQ(),c),new A.e5(new A.be(a,0,a,0),A.fu(A.a([A.iS(c,c,B.v,B.aE,c,c,c,1,c,c,c,c,1/0),A.bw(c,30*$.b1().gbQ(),c),B.Kh],a4),B.a9,B.L),c),A.bw(c,a0,c)],a4),B.a9,B.L),c),c)}}
 A.a64.prototype={
 $0(){},
 $S:23}
@@ -72832,25 +72832,25 @@ B.wf=new A.m(!0,null,null,null,null,null,60,B.aX,null,null,null,null,1.3,null,nu
 B.Rv=new A.cm("Mobile\nDeveloper",null,B.wf,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.OW=new A.m(!0,null,null,null,null,null,16,B.b8,null,null,null,null,1.8,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.Rw=new A.cm("I like to craft innovative and scalable mobile products\nwith great user experiences.",null,B.OW,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.wb=new A.m(!0,null,null,null,null,null,13,B.cD,null,null,null,null,1.8,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.Rx=new A.cm("Over a two years of experience building products for clients across japan.",null,B.wb,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.OX=new A.m(!0,null,null,null,null,null,18,B.w,null,null,null,null,1.8,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.Ry=new A.cm("\n(~_^)\n",null,B.OX,null,B.bM,null,null,null,null,null,null,null,null,null,null,null)
-B.Rz=new A.cm("Thank for your watching!",null,B.wf,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.wc=new A.m(!0,null,null,null,null,null,14,B.b8,null,null,null,null,1.8,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.RA=new A.cm("I have the ideal tools for developing JavaScript applications, and I can definitely work without them to produce quick, durable solutions that are designed for growth \u2013 performance and scalability are top objectives on my radar.",null,B.wc,null,null,null,null,null,null,null,null,null,null,null,null,null)
+B.Rx=new A.cm("\n(~_^)\n",null,B.OX,null,B.bM,null,null,null,null,null,null,null,null,null,null,null)
+B.Ry=new A.cm("Thank for your watching!",null,B.wf,null,null,null,null,null,null,null,null,null,null,null,null,null)
+B.wb=new A.m(!0,null,null,null,null,null,14,B.b8,null,null,null,null,1.8,null,null,null,null,null,null,null,null,null,null,null,null,null)
+B.Rz=new A.cm("I have the ideal tools for developing JavaScript applications, and I can definitely work without them to produce quick, durable solutions that are designed for growth \u2013 performance and scalability are top objectives on my radar.",null,B.wb,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.Qd=new A.m(!0,null,null,null,null,null,56,B.aX,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.RB=new A.cm("Over the years,",null,B.Qd,null,null,null,null,null,null,null,null,null,null,null,null,null)
+B.RA=new A.cm("Over the years,",null,B.Qd,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.wg=new A.m(!0,null,null,null,null,null,50,B.aX,null,null,null,null,1.3,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.RC=new A.cm("I build &\ndesign stuff",null,B.wg,null,null,null,null,null,null,null,null,null,null,null,null,null)
+B.RB=new A.cm("I build &\ndesign stuff",null,B.wg,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.Qe=new A.m(!0,null,null,null,null,null,18,B.w,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.wi=new A.cm("Open source\nprojects, web apps\nand experimentals.",null,B.Qe,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.RD=new A.cm("Highly skilled at progressive enhancement, design systems & UI Engineering.",null,B.wb,null,null,null,null,null,null,null,null,null,null,null,null,null)
+B.wc=new A.m(!0,null,null,null,null,null,13,B.cD,null,null,null,null,1.8,null,null,null,null,null,null,null,null,null,null,null,null,null)
+B.RC=new A.cm("Highly skilled at progressive enhancement, design systems & UI Engineering.",null,B.wc,null,null,null,null,null,null,null,null,null,null,null,null,null)
+B.RD=new A.cm("Over a two years of experience building products for clients across Japan and Vietnam.",null,B.wc,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.wh=new A.m(!0,null,null,null,null,null,60,B.aX,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.RE=new A.cm("Engineering",null,B.wh,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.RH=new A.cm("I write,\nsometimes",null,B.wg,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.RI=new A.cm("Design",null,B.wh,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.RJ=new A.cm("I design, even though I'm probably not the typical designer sitting in front of an Illustrator artboard tweaking pixels. You can always find me buried in stylesheets, fiddling with font sizes and thinking about layouts (~_^). Creating fluid user experiences is something I'm committed to doing while looking chic.",null,B.wc,null,null,null,null,null,null,null,null,null,null,null,null,null)
+B.RJ=new A.cm("I design, even though I'm probably not the typical designer sitting in front of an Illustrator artboard tweaking pixels. You can always find me buried in stylesheets, fiddling with font sizes and thinking about layouts (~_^). Creating fluid user experiences is something I'm committed to doing while looking chic.",null,B.wb,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.Qx=new A.m(!0,null,null,null,null,null,18,B.w,null,null,null,null,1.6,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.RN=new A.cm("Creating Mobile Solutions That Not Only Meet But Exceed Your Expectations.",null,B.Qx,null,B.bM,null,null,null,null,null,null,null,null,null,null,null)
 B.wj=new A.HB(0,"system")
@@ -73534,7 +73534,7 @@ s($,"aAa","alT",()=>new A.a4Y())
 r($,"aD4","anB",()=>{var q=$.ab.k(0,B.MI),p=q==null?null:A.a_("abx()").a(q).$0()
 return p==null?new A.Be(A.aQ(t.lZ)):p})
 r($,"aCZ","anz",()=>new A.R5())
-s($,"azu","alI",()=>B.i.a7J(0.8))
+s($,"azu","alI",()=>B.i.a7J(0.9))
 s($,"azx","alJ",()=>A.dq("^[\\w!#%&'*+\\-.^`|~]+$",!0,!1))
 s($,"aC9","amY",()=>A.dq("^\\d+$",!0,!1))
 s($,"aBn","amu",()=>$.Aw())
